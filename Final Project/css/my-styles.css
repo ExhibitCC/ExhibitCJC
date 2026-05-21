@@ -1,12 +1,15 @@
         * {
-        font-family: Stencil Std, fantasy, sans-serif;
+
         color: #e51010;
         box-sizing: border-box;}
         
         html,body,h1,h2,h3,h4,h5,h6 {
-            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+            font-family: "Audiowide", sans-serif;
         }
-
+      
+        summary,p {
+            font-family: "Roboto", sans-serif;
+        }
         header h1 {
         color: Red; }
 
